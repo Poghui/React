@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.prueba {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+
+.hi {
+    color: red;
+}
