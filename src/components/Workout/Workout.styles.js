@@ -41,3 +41,4 @@ export const Img = styled.img`
     ${({ active }) => active ? 'border: 4px solid red; z-index:1' : 'border:4px solid transparent'}
 `;
 
+//a
