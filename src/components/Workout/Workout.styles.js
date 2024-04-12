@@ -17,7 +17,7 @@ margin-right: 10px;
 export const BtnRight = styled.span`
 ${Btn}
 margin-left: 10px;
-transform: rotate(180deg);
+transform: scaleX(-1);
 `;
 
 export const GlobalStyle = createGlobalStyle`
@@ -29,7 +29,7 @@ justify-content:center;
 `;
 export const Row = styled.div`
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 43% 43%;
 `;
 
 export const MainImg = styled.img`
