@@ -13,7 +13,10 @@ import ReactDOM from 'react-dom/client'
 // import App from './components/arraysnum'
 // import App from './components/Cositas/Cositas'
 // import App from './components/AplicationTheatre/AplicationTheatre'
-import App from './components/Workout/Workout'
+// import App from './components/Workout/Workout'
+// import App from './components/prueba'
+// import App from './ReactRoutes'
+import App from './components/PeticionServidor'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
